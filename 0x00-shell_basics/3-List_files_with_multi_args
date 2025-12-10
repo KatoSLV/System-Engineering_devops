@@ -1,0 +1,9 @@
+#!/usr/bin/bash
+
+# Task:
+# List all files - check
+# | in long format - check
+# | with numeric user - check
+# | and group IDs - check
+
+ls -ln

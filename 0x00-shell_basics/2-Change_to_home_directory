@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+# Task:
+# Change to home directory
+# $SHELL makes the script to run as the same PID as the shell
+cd ~
+$SHELL

@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task:
+# Write a script that print the current working directory 
+
+pwd
