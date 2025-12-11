@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+# Task: 
+# Create the following directories ->c/is/fun. Remove them after with one command
+
+mkdir -p c/is/fun
+rm -r c

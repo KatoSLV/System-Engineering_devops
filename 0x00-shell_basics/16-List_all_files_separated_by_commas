@@ -1,0 +1,8 @@
+#!/usr/bin/bash
+
+# Task:
+# List all files 
+# |separated by commas
+# |Any directory must have "/"
+
+ls -amp

@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+# Task: 
+# Create multiple empty files with extensions ending with ~. Remove all of them after with one command
+
+touch file1.txt~ file2.txt~ file3.txt~
+rm *~

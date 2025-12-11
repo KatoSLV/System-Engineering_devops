@@ -3,6 +3,6 @@
 # Task:
 # Copy all files - Check
 # | with a specific extension - Check
-# | to the parent directory - Check 
+# | to the parent directory - Check
 
-cp *.txt ..
+cp *.txt* ..
