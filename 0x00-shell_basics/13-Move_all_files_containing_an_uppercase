@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task:
+# Move all files containing an uppercase to the parent directory
+
+mv *[uppercase]* ..

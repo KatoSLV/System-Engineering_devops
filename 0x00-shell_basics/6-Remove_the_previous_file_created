@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task:
+# Remove the previous file created
+
+rm ./tmp/roadmap/road.txt

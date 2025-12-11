@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task:
+# Move a filed called road to tmp/roadmap
+
+touch ~/System-Engineering_devops/0x00-shell_basics/tmp/roadmap/road.txt

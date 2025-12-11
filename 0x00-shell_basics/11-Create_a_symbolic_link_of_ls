@@ -1,0 +1,9 @@
+#!/usr/bin/bash
+
+# Task:
+# Create a symbolic link - Check    
+# | of ls and name - Check
+# | it __ls__ - Check
+# The command will be use ./__ls__ because the command does not find the current path of the directory
+
+ln -s /usr/bin/ls __ls__

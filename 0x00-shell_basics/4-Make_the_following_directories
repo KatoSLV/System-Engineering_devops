@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+# Task:
+# Make the followin directories tmp/roadmap 
+# | this should be made in one line 
+
+mkdir -p tmp/roadmap

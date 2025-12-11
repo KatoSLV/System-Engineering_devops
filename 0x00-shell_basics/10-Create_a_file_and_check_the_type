@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+# Task:
+# Create a file and check the type of the file
+
+touch example.txt
+file example.txt
