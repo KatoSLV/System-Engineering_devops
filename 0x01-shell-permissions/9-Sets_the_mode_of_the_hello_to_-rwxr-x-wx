@@ -1,0 +1,12 @@
+#!/usr/bin/bash
+
+# Task:
+# Sets the mode of the hello to: -rwxr-x-wx (required two different answer)
+
+# 1 Answer:
+
+chmod 753 ./hello.txt
+
+# 2 Answer:
+
+chmod u=rwx, g=rx, o=wx ./hello.txt

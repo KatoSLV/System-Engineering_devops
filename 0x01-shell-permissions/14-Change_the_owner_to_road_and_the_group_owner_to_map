@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task:
+# Change the owner to road and the group owner to map for all the files in the current directory
+
+sudo chown -c road:map *

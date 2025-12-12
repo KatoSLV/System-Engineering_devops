@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task: 
+# Sets the mod of the file hello as the same as olleh
+
+chmod --reference=olleh.txt ./hello.txt

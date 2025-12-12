@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+# Task:
+# Adds execute permission to the owner and the group owner, and read permission to the other users, to the file hello
+
+chmod ug+x ./hello.txt
+chmod o+r ./hello.txt

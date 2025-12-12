@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+# Task:
+# Adds execute permission to the owner, group and others user, to the file hello. 
+# |can´t use "ugo" to add permissions
+
+chmod a+x ./hello.txt

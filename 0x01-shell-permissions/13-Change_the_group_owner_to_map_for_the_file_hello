@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+# Task:
+# Change the group owner to map for the fill hello
+
+sudo groupadd map
+sudo chgrp map ./hello.txt

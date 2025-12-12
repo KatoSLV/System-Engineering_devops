@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task:
+# Prints the effect userID of the current user
+
+id kato

@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+# Task:
+# Creates a directory called dir roadMap with the following permissions:
+# owner all permissions, group read and execute permissions, other execute permissions
+
+mkdir -m 751 roadMap

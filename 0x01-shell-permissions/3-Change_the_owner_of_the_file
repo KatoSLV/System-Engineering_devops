@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+# Task:
+# Change the owner of the file "hello" to the user "road"
+
+touch hello.txt
+sudo chown -c kato:road hello.txt

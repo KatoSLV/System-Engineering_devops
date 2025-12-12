@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task:
+# Create an empty file named "hello"
+
+touch hello.txt

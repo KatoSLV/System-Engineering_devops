@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+# Task:
+# Adds execute permission to all subdirectories of the current directory
+# for the owner, for the group owner and all other users
+
+chmod -R a+x ./

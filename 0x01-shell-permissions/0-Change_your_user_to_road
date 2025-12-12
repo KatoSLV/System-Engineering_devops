@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task:
+# Change your user to road
+
+su road

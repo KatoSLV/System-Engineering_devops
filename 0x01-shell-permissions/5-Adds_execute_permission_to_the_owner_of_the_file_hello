@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task:
+# Adds execute permission to the owner of the file hello
+
+chmod u+x ./hello.txt

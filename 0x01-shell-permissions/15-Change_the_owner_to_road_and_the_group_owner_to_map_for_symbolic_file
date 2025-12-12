@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task:
+# Change the owner to road and the group owner to map for the symbolic file called "_hello"
+
+sudo chown -hc road:map ./_hello

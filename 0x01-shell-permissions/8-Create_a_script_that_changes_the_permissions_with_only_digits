@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+# Task:
+# Create a script that changes the permissions, with only digits. of a files as follows:
+# owner with no permissions / group with no permissions / other with all permissions
+
+chmod 007 ./hello.txt
