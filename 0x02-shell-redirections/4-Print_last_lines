@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task:
+# Print last 10 lines of /etc/passwd
+
+tail /etc/passwd

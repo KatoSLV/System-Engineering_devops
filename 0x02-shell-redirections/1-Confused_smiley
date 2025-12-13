@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task:
+# Prints confused smiley:"(Ôo)"
+
+echo "\"(Ôo)'"

@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task:
+# Takes a list of words as input and prints only words that appear exactly once
+
+cat iacta.txt | wc -w

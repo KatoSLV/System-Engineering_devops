@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task:
+# Print the content of /etc/passwd and /etc/hosts
+
+cat /etc/passwd ; cat /etc/hosts

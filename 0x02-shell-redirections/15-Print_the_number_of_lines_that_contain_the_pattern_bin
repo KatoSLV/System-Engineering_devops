@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task: 
+# Print the number of lines that contain the pattern "bin" in the file /etc/passwd
+
+grep bin /etc/passwd | wc -l

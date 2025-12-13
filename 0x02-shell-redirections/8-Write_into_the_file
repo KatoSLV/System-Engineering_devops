@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task:
+# Write into the file ls_cwd_content the result of the comand "ls -la"
+
+ls -la > ls_cwd_content

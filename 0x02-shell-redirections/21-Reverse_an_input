@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task:
+# Reverse an input
+
+cat ChangeMe.txt | rev

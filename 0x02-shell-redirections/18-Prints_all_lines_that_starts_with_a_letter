@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task:
+# Prints all lines of the file /etc/ssh/sshd_config that starts with a letter
+
+grep ^[alpha] /etc/ssh/sshd_config | wc -l

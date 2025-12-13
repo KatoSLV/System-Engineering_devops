@@ -9,4 +9,4 @@ chmod 753 ./hello.txt
 
 # 2 Answer:
 
-chmod u=rwx, g=rx, o=wx ./hello.txt
+chmod u=rwx,g=rx,o=r ./hello.txt

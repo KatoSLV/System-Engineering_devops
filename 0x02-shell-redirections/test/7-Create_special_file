@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task:
+# Create a file with special characters containing the text: "Road Map"
+
+echo "Road Map" > \*\\\"'Road Map'\"\\\*\$\?\*\*\*\*\*\:\)

@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task:
+# Removes all letters (c and C) from imput
+
+echo "Cameron has a new car" | tr -d "Cc"

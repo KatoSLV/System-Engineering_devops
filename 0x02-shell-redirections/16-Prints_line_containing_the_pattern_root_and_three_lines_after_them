@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task:
+# Prints line containing the pattern root and three lines after them in the file /etc/passwd
+
+grep -A 3 root /etc/passwd

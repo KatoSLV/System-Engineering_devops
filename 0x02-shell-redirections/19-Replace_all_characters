@@ -1,0 +1,8 @@
+#!/usr/bin/bash
+
+# Task:
+# Replace all characters (A and c) from input to (Z and e) respectively
+
+#Answer: First, create an input that can be replaced, in my case ChangeMe.txt
+
+tr "Ac" "Ze" < ./ChangeMe.txt

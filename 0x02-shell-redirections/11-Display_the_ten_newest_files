@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task:
+# Display the ten newest files in the current directory
+
+ls -lt | head -n 10

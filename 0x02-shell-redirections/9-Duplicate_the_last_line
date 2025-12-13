@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task:
+# Duplicate the last line of the file iacta.txt
+
+tail -n1 iacta.txt >> ./iacta.txt
