@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task:
+# Create a script that list environment variables
+
+env

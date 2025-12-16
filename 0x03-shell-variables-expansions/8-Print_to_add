@@ -1,0 +1,9 @@
+#!/usr/bin/bash
+
+# Task:
+# Write a script that prints the addition of 128 with the value stored in the environment 
+# variable TRUEKNOWLEDGE, followed by a newline 
+
+TRUEKNOWLEDGE=10
+
+echo "$(( 128 + $TRUEKNOWLEDGE ))"

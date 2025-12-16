@@ -1,0 +1,12 @@
+#!/usr/bin/bash
+
+# Task:
+# Write a script that prints the result of POWER divided by DIVIDE, followed by a new line 
+# POWER and DIVIDE are environment variables 
+
+echo 'export POWER=25' >> ~/.bashrc
+echo 'export DIVIDE=5' >> ~/.bashrc
+
+# Do a source in .bashrc
+
+echo "$(( POWER / DIVIDE ))"

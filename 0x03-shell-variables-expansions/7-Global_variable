@@ -1,0 +1,13 @@
+#!/usr/bin/bash
+
+# Task:
+# Create a script that creates a global variable 
+
+function global () {
+ROADMAP=map
+    echo "inside this function ROADMAP=$ROADMAP"
+
+}
+
+global
+echo "outside this function ROADMAP = $ROADMAP"

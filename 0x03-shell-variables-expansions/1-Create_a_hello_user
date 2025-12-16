@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task:
+# Create a "Hello user", where the user is the current Linux user
+
+echo "hello $USER"

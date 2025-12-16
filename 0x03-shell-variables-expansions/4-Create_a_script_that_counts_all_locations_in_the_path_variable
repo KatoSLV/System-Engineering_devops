@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Task:
+# Create a script that counts all locations in the path variable
+
+cat /etc/environment | tr ":" "\n" | wc -l

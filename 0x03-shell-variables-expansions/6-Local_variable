@@ -1,0 +1,13 @@
+#!/usr/bin/bash
+
+# Task:
+# Create a script that creates a new local variable 
+
+function first () {
+ local ROADMAP=road
+echo "inside this function ROADMAP=$ROADMAP"
+
+}
+
+first
+echo "outside this function ROADMAP = $ROADMAP"
